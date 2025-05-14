@@ -59,12 +59,12 @@ Checked if the changes I made during the cleaning process from Excel took effect
 I checked for the presence of duplicates, or rather, the lack thereof.
 
 ## 2. Descriptive Analysis
-### 1. Debt Burden by Country: Checked for the total amount owed by each country.
-### 2. Debt Burden by Continent: Checked for the total amount owed by cotinents.
-### 3. Average Debt Owed by Continent: Checked for the average debt owed by countries on each continent.
-### 4. Biggest Debtor(China): Checked the debt composition of China, the world's biggest debtor.
-### 5. Country of Interest(Nigeria): Checked the debt composition of Nigeria.
-### 6. Debt Domination by Composition
+- Debt Burden by Country: Checked for the total amount owed by each country.
+- Debt Burden by Continent: Checked for the total amount owed by cotinents.
+- Average Debt Owed by Continent: Checked for the average debt owed by countries on each continent.
+- Biggest Debtor(China): Checked the debt composition of China, the world's biggest debtor.
+- Country of Interest(Nigeria): Checked the debt composition of Nigeria.
+- Debt Domination by Composition
       - Disbursement: Checked for the amount of new loans secured by countries and continents.
       - Interest Payment(Long Term and Private Non Guaranteed): Checked for the amount of debts owed by countries and continent is due to interest payment on existing long term loans.
       - Bilateral Loans: Checked for the amount of debt owed to loans granted by single lenders.
